@@ -1,0 +1,315 @@
+Mobile,Interstitial,Simple Animation,1000
+Mobile,Interstitial,Image Gallery,1200
+Mobile,Interstitial,Video/ Video Gallery,1200
+Mobile,Interstitial,Location,1500
+Mobile,Interstitial,Wipeable,1200
+Mobile,Interstitial,Countdown,1200
+Mobile,Interstitial,Complex Animation,1500
+Mobile,Interstitial,Dynamic Creative,2200
+Mobile,Interstitial,Quiz/Poll,1700
+Mobile,Interstitial,360 View,1400
+Mobile,Interstitial,Take a photo,1600
+Mobile,Interstitial,Canvas,1600
+Mobile,Interstitial,Gyro/Parallax,1800
+Mobile,Interstitial,Social media,1200
+Mobile,Interstitial,Json feed,1600
+Mobile,Inter-scroller,Simple Animation,1000
+Mobile,Inter-scroller,Image Gallery,1200
+Mobile,Inter-scroller,Video/ Video Gallery,1200
+Mobile,Inter-scroller,Location,1500
+Mobile,Inter-scroller,Wipeable,1200
+Mobile,Inter-scroller,Countdown,1200
+Mobile,Inter-scroller,Complex Animation,1500
+Mobile,Inter-scroller,Dynamic Creative,2200
+Mobile,Inter-scroller,Quiz/Poll,1700
+Mobile,Inter-scroller,360 View,1400
+Mobile,Inter-scroller,Take a photo,1600
+Mobile,Inter-scroller,Canvas,1600
+Mobile,Inter-scroller,Gyro/Parallax,1800
+Mobile,Inter-scroller,Social media,1200
+Mobile,Inter-scroller,Json feed,1600
+Mobile,Tap to expand,Simple Animation,1000
+Mobile,Tap to expand,Image Gallery,1200
+Mobile,Tap to expand,Video/ Video Gallery,1200
+Mobile,Tap to expand,Location,1500
+Mobile,Tap to expand,Wipeable,1200
+Mobile,Tap to expand,Countdown,1200
+Mobile,Tap to expand,Complex Animation,1500
+Mobile,Tap to expand,Dynamic Creative,2200
+Mobile,Tap to expand,Quiz/Poll,1700
+Mobile,Tap to expand,360 View,1400
+Mobile,Tap to expand,Take a photo,1600
+Mobile,Tap to expand,Canvas,1600
+Mobile,Tap to expand,Gyro/Parallax,1800
+Mobile,Tap to expand,Social media,1200
+Mobile,Tap to expand,Json feed,1600
+Mobile,MPU,Simple Animation,400
+Mobile,MPU,Image Gallery,400
+Mobile,MPU,Video/ Video Gallery,400
+Mobile,MPU,Location,500
+Mobile,MPU,Wipeable,500
+Mobile,MPU,Countdown,400
+Mobile,MPU,Complex Animation,500
+Mobile,MPU,Dynamic Creative,600
+Mobile,MPU,Quiz/Poll,700
+Mobile,MPU,360 View,500
+Mobile,MPU,Take a photo,0
+Mobile,MPU,Canvas,0
+Mobile,MPU,Gyro/Parallax,1200
+Mobile,MPU,Social media,400
+Mobile,MPU,Json feed,1000
+Mobile,360 Video (Alpha stage),Simple Animation,1400
+Mobile,360 Video (Alpha stage),Image Gallery,1400
+Mobile,360 Video (Alpha stage),Video/ Video Gallery,1400
+Mobile,360 Video (Alpha stage),Location,1500
+Mobile,360 Video (Alpha stage),Wipeable,1500
+Mobile,360 Video (Alpha stage),Countdown,1400
+Mobile,360 Video (Alpha stage),Complex Animation,1400
+Mobile,360 Video (Alpha stage),Dynamic Creative,2200
+Mobile,360 Video (Alpha stage),Quiz/Poll,1950
+Mobile,360 Video (Alpha stage),360 View,1600
+Mobile,360 Video (Alpha stage),Take a photo,1800
+Mobile,360 Video (Alpha stage),Canvas,1800
+Mobile,360 Video (Alpha stage),Gyro/Parallax,0
+Mobile,360 Video (Alpha stage),Social media,1400
+Mobile,360 Video (Alpha stage),Json feed,1800
+Mobile,Vertical Video  ,Simple Animation,1200
+Mobile,Vertical Video  ,Image Gallery,1200
+Mobile,Vertical Video  ,Video/ Video Gallery,1200
+Mobile,Vertical Video  ,Location,1500
+Mobile,Vertical Video  ,Wipeable,1200
+Mobile,Vertical Video  ,Countdown,1200
+Mobile,Vertical Video  ,Complex Animation,1500
+Mobile,Vertical Video  ,Dynamic Creative,2200
+Mobile,Vertical Video  ,Quiz/Poll,1700
+Mobile,Vertical Video  ,360 View,1400
+Mobile,Vertical Video  ,Take a photo,1600
+Mobile,Vertical Video  ,Canvas,1600
+Mobile,Vertical Video  ,Gyro/Parallax,1800
+Mobile,Vertical Video  ,Social media,1200
+Mobile,Vertical Video  ,Json feed,1600
+Tablet,Interstitial,Simple Animation,1000
+Tablet,Interstitial,Image Gallery,1200
+Tablet,Interstitial,Video/ Video Gallery,1200
+Tablet,Interstitial,Location,1500
+Tablet,Interstitial,Wipeable,1200
+Tablet,Interstitial,Countdown,1200
+Tablet,Interstitial,Complex Animation,1500
+Tablet,Interstitial,Dynamic Creative,2200
+Tablet,Interstitial,Quiz/Poll,1700
+Tablet,Interstitial,360 View,1400
+Tablet,Interstitial,Take a photo,1600
+Tablet,Interstitial,Canvas,1600
+Tablet,Interstitial,Gyro/Parallax,1800
+Tablet,Interstitial,Social media,1200
+Tablet,Interstitial,Json feed,1600
+Tablet,Tap to expand,Simple Animation,1000
+Tablet,Tap to expand,Image Gallery,1200
+Tablet,Tap to expand,Video/ Video Gallery,1200
+Tablet,Tap to expand,Location,1500
+Tablet,Tap to expand,Wipeable,1200
+Tablet,Tap to expand,Countdown,1200
+Tablet,Tap to expand,Complex Animation,1500
+Tablet,Tap to expand,Dynamic Creative,2200
+Tablet,Tap to expand,Quiz/Poll,1700
+Tablet,Tap to expand,360 View,1400
+Tablet,Tap to expand,Take a photo,1600
+Tablet,Tap to expand,Canvas,1600
+Tablet,Tap to expand,Gyro/Parallax,1800
+Tablet,Tap to expand,Social media,1200
+Tablet,Tap to expand,Json feed,1600
+Tablet,MPU,Simple Animation,400
+Tablet,MPU,Image Gallery,400
+Tablet,MPU,Video/ Video Gallery,400
+Tablet,MPU,Location,500
+Tablet,MPU,Wipeable,500
+Tablet,MPU,Countdown,400
+Tablet,MPU,Complex Animation,500
+Tablet,MPU,Dynamic Creative,600
+Tablet,MPU,Quiz/Poll,700
+Tablet,MPU,360 View,500
+Tablet,MPU,Take a photo,0
+Tablet,MPU,Canvas,0
+Tablet,MPU,Gyro/Parallax,1200
+Tablet,MPU,Social media,400
+Tablet,MPU,Json feed,1000
+Tablet,Billboard,Simple Animation,400
+Tablet,Billboard,Image Gallery,400
+Tablet,Billboard,Video/ Video Gallery,400
+Tablet,Billboard,Location,500
+Tablet,Billboard,Wipeable,500
+Tablet,Billboard,Countdown,400
+Tablet,Billboard,Complex Animation,500
+Tablet,Billboard,Dynamic Creative,600
+Tablet,Billboard,Quiz/Poll,700
+Tablet,Billboard,360 View,500
+Tablet,Billboard,Take a photo,0
+Tablet,Billboard,Canvas,0
+Tablet,Billboard,Gyro/Parallax,1200
+Tablet,Billboard,Social media,400
+Tablet,Billboard,Json feed,1000
+Tablet,DMPU,Simple Animation,400
+Tablet,DMPU,Image Gallery,400
+Tablet,DMPU,Video/ Video Gallery,400
+Tablet,DMPU,Location,500
+Tablet,DMPU,Wipeable,500
+Tablet,DMPU,Countdown,400
+Tablet,DMPU,Complex Animation,500
+Tablet,DMPU,Dynamic Creative,600
+Tablet,DMPU,Quiz/Poll,700
+Tablet,DMPU,360 View,500
+Tablet,DMPU,Take a photo,0
+Tablet,DMPU,Canvas,0
+Tablet,DMPU,Gyro/Parallax,1200
+Tablet,DMPU,Social media,400
+Tablet,DMPU,Json feed,1000
+Tablet,Leaderboard,Simple Animation,400
+Tablet,Leaderboard,Image Gallery,400
+Tablet,Leaderboard,Video/ Video Gallery,400
+Tablet,Leaderboard,Location,500
+Tablet,Leaderboard,Wipeable,500
+Tablet,Leaderboard,Countdown,400
+Tablet,Leaderboard,Complex Animation,500
+Tablet,Leaderboard,Dynamic Creative,600
+Tablet,Leaderboard,Quiz/Poll,700
+Tablet,Leaderboard,360 View,500
+Tablet,Leaderboard,Take a photo,0
+Tablet,Leaderboard,Canvas,0
+Tablet,Leaderboard,Gyro/Parallax,1200
+Tablet,Leaderboard,Social media,400
+Tablet,Leaderboard,Json feed,1000
+Tablet,Skyscraper,Simple Animation,400
+Tablet,Skyscraper,Image Gallery,400
+Tablet,Skyscraper,Video/ Video Gallery,400
+Tablet,Skyscraper,Location,500
+Tablet,Skyscraper,Wipeable,500
+Tablet,Skyscraper,Countdown,400
+Tablet,Skyscraper,Complex Animation,500
+Tablet,Skyscraper,Dynamic Creative,600
+Tablet,Skyscraper,Quiz/Poll,700
+Tablet,Skyscraper,360 View,500
+Tablet,Skyscraper,Take a photo,0
+Tablet,Skyscraper,Canvas,0
+Tablet,Skyscraper,Gyro/Parallax,1200
+Tablet,Skyscraper,Social media,400
+Tablet,Skyscraper,Json feed,1000
+Tablet,Vertical Video ,Simple Animation,1200
+Tablet,Vertical Video ,Image Gallery,1200
+Tablet,Vertical Video ,Video/ Video Gallery,1200
+Tablet,Vertical Video ,Location,1500
+Tablet,Vertical Video ,Wipeable,1200
+Tablet,Vertical Video ,Countdown,1200
+Tablet,Vertical Video ,Complex Animation,1500
+Tablet,Vertical Video ,Dynamic Creative,2200
+Tablet,Vertical Video ,Quiz/Poll,1700
+Tablet,Vertical Video ,360 View,1400
+Tablet,Vertical Video ,Take a photo,1600
+Tablet,Vertical Video ,Canvas,1600
+Tablet,Vertical Video ,Gyro/Parallax,1800
+Tablet,Vertical Video ,Social media,1200
+Tablet,Vertical Video ,Json feed,1600
+Desktop,MPU,Simple Animation,400
+Desktop,MPU,Image Gallery,400
+Desktop,MPU,Video/ Video Gallery,400
+Desktop,MPU,Location,500
+Desktop,MPU,Wipeable,500
+Desktop,MPU,Countdown,400
+Desktop,MPU,Complex Animation,500
+Desktop,MPU,Dynamic Creative,600
+Desktop,MPU,Quiz/Poll,500
+Desktop,MPU,360 View,500
+Desktop,MPU,Take a photo,0
+Desktop,MPU,Canvas,0
+Desktop,MPU,Gyro/Parallax,1200
+Desktop,MPU,Social media,500
+Desktop,MPU,Json feed,1000
+Desktop,Billboard,Simple Animation,400
+Desktop,Billboard,Image Gallery,400
+Desktop,Billboard,Video/ Video Gallery,400
+Desktop,Billboard,Location,500
+Desktop,Billboard,Wipeable,500
+Desktop,Billboard,Countdown,400
+Desktop,Billboard,Complex Animation,500
+Desktop,Billboard,Dynamic Creative,600
+Desktop,Billboard,Quiz/Poll,500
+Desktop,Billboard,360 View,500
+Desktop,Billboard,Take a photo,0
+Desktop,Billboard,Canvas,0
+Desktop,Billboard,Gyro/Parallax,1200
+Desktop,Billboard,Social media,500
+Desktop,Billboard,Json feed,1000
+Desktop,DMPU,Simple Animation,400
+Desktop,DMPU,Image Gallery,400
+Desktop,DMPU,Video/ Video Gallery,400
+Desktop,DMPU,Location,500
+Desktop,DMPU,Wipeable,500
+Desktop,DMPU,Countdown,400
+Desktop,DMPU,Complex Animation,500
+Desktop,DMPU,Dynamic Creative,600
+Desktop,DMPU,Quiz/Poll,500
+Desktop,DMPU,360 View,500
+Desktop,DMPU,Take a photo,0
+Desktop,DMPU,Canvas,0
+Desktop,DMPU,Gyro/Parallax,1200
+Desktop,DMPU,Social media,500
+Desktop,DMPU,Json feed,1000
+Desktop,Leaderboard,Simple Animation,400
+Desktop,Leaderboard,Image Gallery,400
+Desktop,Leaderboard,Video/ Video Gallery,400
+Desktop,Leaderboard,Location,500
+Desktop,Leaderboard,Wipeable,500
+Desktop,Leaderboard,Countdown,400
+Desktop,Leaderboard,Complex Animation,500
+Desktop,Leaderboard,Dynamic Creative,600
+Desktop,Leaderboard,Quiz/Poll,500
+Desktop,Leaderboard,360 View,500
+Desktop,Leaderboard,Take a photo,0
+Desktop,Leaderboard,Canvas,0
+Desktop,Leaderboard,Gyro/Parallax,1200
+Desktop,Leaderboard,Social media,500
+Desktop,Leaderboard,Json feed,1000
+Desktop,Skyscraper,Simple Animation,400
+Desktop,Skyscraper,Image Gallery,400
+Desktop,Skyscraper,Video/ Video Gallery,400
+Desktop,Skyscraper,Location,500
+Desktop,Skyscraper,Wipeable,500
+Desktop,Skyscraper,Countdown,400
+Desktop,Skyscraper,Complex Animation,500
+Desktop,Skyscraper,Dynamic Creative,600
+Desktop,Skyscraper,Quiz/Poll,500
+Desktop,Skyscraper,360 View,500
+Desktop,Skyscraper,Take a photo,0
+Desktop,Skyscraper,Canvas,0
+Desktop,Skyscraper,Gyro/Parallax,1200
+Desktop,Skyscraper,Social media,500
+Desktop,Skyscraper,Json feed,1000
+Desktop,360 Video,Simple Animation,1000
+Desktop,360 Video,Image Gallery,1250
+Desktop,360 Video,Video/ Video Gallery,1250
+Desktop,360 Video,Location,1400
+Desktop,360 Video,Wipeable,1250
+Desktop,360 Video,Countdown,1000
+Desktop,360 Video,Complex Animation,1400
+Desktop,360 Video,Dynamic Creative,1900
+Desktop,360 Video,Quiz/Poll,1900
+Desktop,360 Video,360 View,1200
+Desktop,360 Video,Take a photo,1500
+Desktop,360 Video,Canvas,1500
+Desktop,360 Video,Gyro/Parallax,0
+Desktop,360 Video,Social media,1250
+Desktop,360 Video,Json feed,1500
+Desktop,Lightbox,Simple Animation,1000
+Desktop,Lightbox,Image Gallery,1000
+Desktop,Lightbox,Video/ Video Gallery,1000
+Desktop,Lightbox,Location,1200
+Desktop,Lightbox,Wipeable,1200
+Desktop,Lightbox,Countdown,1000
+Desktop,Lightbox,Complex Animation,1200
+Desktop,Lightbox,Dynamic Creative,1900
+Desktop,Lightbox,Quiz/Poll,1500
+Desktop,Lightbox,360 View,1200
+Desktop,Lightbox,Take a photo,1500
+Desktop,Lightbox,Canvas,1500
+Desktop,Lightbox,Gyro/Parallax,1600
+Desktop,Lightbox,Social media,1200
+Desktop,Lightbox,Json feed,1500
