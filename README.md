@@ -1,1 +1,1 @@
-# media-calculator - a bit unfinished and buggy on the creative calculator feel free to fork
+# media-calculator - It calculates media spends. The calculator to work out creative build costs is a bit buggy. Needs work.
