@@ -1,30 +1,22 @@
-<!DOCTYPE HTML>
-
-<html>
-
-<head>
-
+<!DOCTYPE HTML> 
+<html> 
+<head> 
 	<title>Calculator</title>
 	<link rel="shortcut icon" href="../favicon.ico">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> 
 	<style>
 	.nav-tabs li{
 		font-weight:600;
-	}
-
+	} 
 	#formatbudget li{
 		margin-bottom:1em;
 	}
 	</style>
-</head>
-
+</head> 
 <body style="background:none">
-<div style="width:1000px;margin:auto;height:600px;margin:auto">
-
-
+<div style="width:1000px;margin:auto;height:600px;margin:auto"> 
 			<table class="table" style="font-size:17px;float:left;width:45%">
 				<tr>
 					<td colspan="2">
@@ -79,43 +71,25 @@
 			<div style="float:right;width:45%">
 				<h3>Total Spend</h3>
 				<ul id="formatbudget"></ul>
-			</div>
-
+			</div> 
 			<br style="clear:both">
-</div>
-
-
-
-<script>
-
-
-
+</div> 
+<script> 
 var json;
-var platform = new Array();
-
-
-$(document).ready(function(){
-
-	$("#getFormatCost").on("click", function(){
-
+var platform = new Array(); 
+$(document).ready(function(){ 
+	$("#getFormatCost").on("click", function(){ 
 		var selectedPlatform = $("#platform").find(":selected").text();
 		var selectedFormat = $("#format").find(":selected").text();
-		var selectedFeatures = $("#feature").val();			
-
+		var selectedFeatures = $("#feature").val();			 
 		getCost(selectedPlatform, selectedFormat, selectedFeatures);
 	});
-});
-
-
-
-
-
+}); 
 $.getJSON( "creative_cost.php", function( data ) {
 	json = data.creatives;
 	$.each(json, function(index, val){
 		platform.push(val.platform);
-	});
-
+	}); 
 	var unique = new Array();
 	for(i=0;i<platform.length;i++){
 		if($.inArray(platform[i], unique) === -1){
@@ -123,10 +97,7 @@ $.getJSON( "creative_cost.php", function( data ) {
 		}
 		unique.push(platform[i]);
 	}
-});
-
-
-
+}); 
 function getCost(platform, format, feature)
 {
 	var totalformatcost = 0;
@@ -141,9 +112,7 @@ function getCost(platform, format, feature)
 	}
 	$("#formatbudget").append("<li>" + platform + " - " + format + " - " + feature  + " - &pound;" + totalformatcost + "</li>");	
 	$("#creativebuild").val((parseInt($("#creativebuild").val()) + parseInt(totalformatcost)).toString());
-}
-
-
+} 
 function getFormatCost(select) {
   var result = [];
   var options = select && select.options;
@@ -155,10 +124,7 @@ function getFormatCost(select) {
     }
   }
   return result;
-}
-
-
-
+} 
 // selected_value, selected_field, wanted_field
 function getData(selectedvalue, selectedfield, wantedfield, dropboxid)
 {
@@ -168,8 +134,7 @@ function getData(selectedvalue, selectedfield, wantedfield, dropboxid)
 		if(val[selectedfield] == selectedvalue){
 			unique.push(val[wantedfield]);
 		}	
-	});
-
+	}); 
 	var dedupe = new Array();	
 	for(i=0;i<unique.length;i++){
 		if($.inArray(unique[i], dedupe) === -1){
